@@ -6,10 +6,12 @@ LeetCode Problems Solved!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Monisha-AK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0917-reverse-only-letters](https://github.com/Monisha-AK/LeetCode/tree/master/0917-reverse-only-letters) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Monisha-AK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0917-reverse-only-letters](https://github.com/Monisha-AK/LeetCode/tree/master/0917-reverse-only-letters) |
 ## Array
 |  |
