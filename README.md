@@ -41,6 +41,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Monisha-AK/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Monisha-AK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Monisha-AK/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Monisha-AK/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -128,6 +129,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0349-intersection-of-two-arrays](https://github.com/Monisha-AK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -175,4 +177,8 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Monisha-AK/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Monisha-AK/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
