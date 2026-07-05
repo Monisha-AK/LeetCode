@@ -47,6 +47,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Monisha-AK/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-AK/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Monisha-AK/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Monisha-AK/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monisha-AK/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -130,6 +131,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
