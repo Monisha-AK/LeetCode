@@ -49,6 +49,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1486-xor-operation-in-an-array](https://github.com/Monisha-AK/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1672-richest-customer-wealth](https://github.com/Monisha-AK/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monisha-AK/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Monisha-AK/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,8 +180,10 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Monisha-AK/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Monisha-AK/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
+| [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
