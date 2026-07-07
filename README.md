@@ -54,6 +54,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monisha-AK/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Monisha-AK/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,4 +191,8 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Monisha-AK/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
