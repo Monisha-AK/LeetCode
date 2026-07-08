@@ -162,6 +162,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Monisha-AK/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Monisha-AK/LeetCode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Monisha-AK/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Monisha-AK/LeetCode/tree/master/0595-big-countries) |
