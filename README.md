@@ -55,6 +55,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Monisha-AK/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3701-compute-alternating-sum](https://github.com/Monisha-AK/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0412-fizz-buzz](https://github.com/Monisha-AK/LeetCode/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Monisha-AK/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Monisha-AK/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3701-compute-alternating-sum](https://github.com/Monisha-AK/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Matrix
 |  |
 | ------- |
