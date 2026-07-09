@@ -98,6 +98,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [2180-count-integers-with-even-digit-sum](https://github.com/Monisha-AK/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Monisha-AK/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Monisha-AK/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2652-sum-multiples](https://github.com/Monisha-AK/LeetCode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monisha-AK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monisha-AK/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
