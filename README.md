@@ -37,6 +37,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0283-move-zeroes](https://github.com/Monisha-AK/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Monisha-AK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Monisha-AK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Monisha-AK/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Monisha-AK/LeetCode/tree/master/0704-binary-search) |
@@ -136,6 +137,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0268-missing-number](https://github.com/Monisha-AK/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Monisha-AK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Monisha-AK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
