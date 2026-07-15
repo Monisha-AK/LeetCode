@@ -206,4 +206,8 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Monisha-AK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
