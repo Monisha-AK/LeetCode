@@ -53,6 +53,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1672-richest-customer-wealth](https://github.com/Monisha-AK/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Monisha-AK/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monisha-AK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Monisha-AK/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Monisha-AK/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -98,6 +99,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1512-number-of-good-pairs](https://github.com/Monisha-AK/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Monisha-AK/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Monisha-AK/LeetCode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monisha-AK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Monisha-AK/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Monisha-AK/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/Monisha-AK/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -210,6 +212,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Monisha-AK/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monisha-AK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
