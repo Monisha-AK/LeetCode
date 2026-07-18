@@ -12,6 +12,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0058-length-of-last-word](https://github.com/Monisha-AK/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Monisha-AK/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Monisha-AK/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Monisha-AK/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Monisha-AK/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -194,6 +195,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0268-missing-number](https://github.com/Monisha-AK/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Monisha-AK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Monisha-AK/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Monisha-AK/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -202,6 +204,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/Monisha-AK/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -226,4 +229,8 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Monisha-AK/LeetCode/tree/master/1025-divisor-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
