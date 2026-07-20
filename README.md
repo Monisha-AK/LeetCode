@@ -187,6 +187,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1527-patients-with-a-condition](https://github.com/Monisha-AK/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Monisha-AK/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Monisha-AK/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Monisha-AK/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
 | ------- |
