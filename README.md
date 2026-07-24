@@ -49,6 +49,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Monisha-AK/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-AK/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Monisha-AK/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Monisha-AK/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Monisha-AK/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Monisha-AK/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -146,6 +147,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0414-third-maximum-number](https://github.com/Monisha-AK/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Monisha-AK/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Monisha-AK/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
