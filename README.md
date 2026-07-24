@@ -108,6 +108,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [2427-number-of-common-factors](https://github.com/Monisha-AK/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Monisha-AK/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Monisha-AK/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Monisha-AK/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monisha-AK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monisha-AK/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
