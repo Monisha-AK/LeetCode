@@ -47,6 +47,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Monisha-AK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Monisha-AK/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Monisha-AK/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Monisha-AK/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1480-running-sum-of-1d-array](https://github.com/Monisha-AK/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-xor-operation-in-an-array](https://github.com/Monisha-AK/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Monisha-AK/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
