@@ -7,6 +7,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Monisha-AK/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Monisha-AK/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Monisha-AK/LeetCode/tree/master/0058-length-of-last-word) |
@@ -242,4 +243,12 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Monisha-AK/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Monisha-AK/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Monisha-AK/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
