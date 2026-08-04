@@ -63,6 +63,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [2733-neither-minimum-nor-maximum](https://github.com/Monisha-AK/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3701-compute-alternating-sum](https://github.com/Monisha-AK/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Monisha-AK/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Monisha-AK/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Monisha-AK/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Monisha-AK/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3731-find-missing-elements](https://github.com/Monisha-AK/LeetCode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0884-uncommon-words-from-two-sentences](https://github.com/Monisha-AK/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/Monisha-AK/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Monisha-AK/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/Monisha-AK/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
