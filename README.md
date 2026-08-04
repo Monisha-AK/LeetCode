@@ -98,6 +98,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0728-self-dividing-numbers](https://github.com/Monisha-AK/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Monisha-AK/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Monisha-AK/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Monisha-AK/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Monisha-AK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Monisha-AK/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Monisha-AK/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -260,4 +261,5 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Monisha-AK/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Monisha-AK/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Monisha-AK/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
