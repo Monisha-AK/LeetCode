@@ -6,4 +6,4 @@ class Solution:
         for i in range(mi,ma+1):
             if i not in nums:
                 l.append(i)
-        return sorted(l)
+        return l
