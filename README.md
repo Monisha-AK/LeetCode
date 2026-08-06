@@ -43,6 +43,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0485-max-consecutive-ones](https://github.com/Monisha-AK/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Monisha-AK/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/Monisha-AK/LeetCode/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Monisha-AK/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Monisha-AK/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -153,6 +154,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0349-intersection-of-two-arrays](https://github.com/Monisha-AK/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Monisha-AK/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Monisha-AK/LeetCode/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Monisha-AK/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Monisha-AK/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Monisha-AK/LeetCode/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Monisha-AK/LeetCode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
