@@ -113,6 +113,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [2427-number-of-common-factors](https://github.com/Monisha-AK/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Monisha-AK/LeetCode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Monisha-AK/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Monisha-AK/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Monisha-AK/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Monisha-AK/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Monisha-AK/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -227,6 +228,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Monisha-AK/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Monisha-AK/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
