@@ -95,6 +95,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0342-power-of-four](https://github.com/Monisha-AK/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Monisha-AK/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Monisha-AK/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Monisha-AK/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Monisha-AK/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Monisha-AK/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Monisha-AK/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
