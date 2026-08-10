@@ -135,6 +135,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0136-single-number](https://github.com/Monisha-AK/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Monisha-AK/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Monisha-AK/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Monisha-AK/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Monisha-AK/LeetCode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Monisha-AK/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Monisha-AK/LeetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -240,6 +241,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Monisha-AK/LeetCode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Monisha-AK/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
