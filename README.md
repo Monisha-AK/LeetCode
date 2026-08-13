@@ -134,6 +134,7 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Monisha-AK/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Monisha-AK/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Monisha-AK/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Monisha-AK/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Monisha-AK/LeetCode/tree/master/0338-counting-bits) |
@@ -272,4 +273,8 @@ LeetCode : (https://leetcode.com/u/Monisha__04/)
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Monisha-AK/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Monisha-AK/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Monisha-AK/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Monisha-AK/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
